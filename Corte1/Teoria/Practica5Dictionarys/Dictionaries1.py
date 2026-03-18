@@ -5,7 +5,7 @@
  lista_palabras = {"mountain": "orod", "bread": "bass", "friend": "mellon", "horse": "roch" }
  print(lista_palabras)
 Verificando un error:
- potencias = {[1, 2, 4, 8, 16]: 2, [1, 3, 9, 27, 81]: 3}
+ potencias = {(1, 2, 4, 8, 16): 2, (1, 3, 9, 27, 81): 3}
   print(potencias)
  hijos = {"von Trapp": ["Johannes", "Rosmarie", "Eleonore"] , "Corleone": ["Sonny", "Fredo", "Michael"]}
  print(hijos)
